@@ -1,6 +1,6 @@
 # CS-350
 
-
+## Thermostat Project
 
 ---
 
@@ -41,3 +41,45 @@ My overall undrestanding of embedded systems and how to use C++ to code in a sma
 **How did you make this project maintainable, readable, and adaptable?**
 
 I used modular coding where possible. This means I used functions and local variables. 
+
+---
+
+## UART Project
+
+---
+
+**Summarize the project and what problem it was solving.**
+
+
+
+The project was to create a way to use the UART to output and input data
+
+---  
+
+**What did you do particularly well?**
+
+I feel I did well with the switch case statement and memory management
+
+---
+
+**Where could you improve?**
+
+I feel using a modular approach would be ideal over using all the code within the loop.
+
+---
+
+**What tools and/or resources are you adding to your support network?**
+
+The reading - Zybooks - assisted a lot with this project. 
+
+---
+
+**What skills from this project will be particularly transferable to other projects and/or course work?**
+
+A skill that I have yet to master is slowing down, remebering what I read, and going to be use that information. This project tought me to re-read and be sure I understand what I'm reading.
+
+---
+
+**How did you make this project maintainable, readable, and adaptable?**
+
+I formatted the code in a way that made it easier to read. I use ////// to seperate sections of the code.
